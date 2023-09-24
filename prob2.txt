@@ -1,0 +1,26 @@
+✔ HTML entities are strings of text that start with an ampersand (&) and end with semicolon (;).
+
+✔ These HTML entities are commonly used to demonostrate characters that are reserved and imperceptible character such as non breaking spaces.
+
+✔ format of HTML entities :  &code;
+    where code may be a decimal form like &#321, hex form like &#x00BC
+
+=> Why to use HTML Entities:
+
+✔ Keyboard characters like "<", ">" have special meaning to HTML because they are part of HTML tags and must be encoded.
+
+✔ Other characters such as certain foreign language character and special symobls can be difficult to specify.
+
+✔  So, to address escaping of special purpose character and inserting a wide range of character and symbols.
+
+
+
+=> 5 Commonly used HTML Entities:
+
+entiteis     Special Character
+---------    -------------------
+&amp;    :            &
+&copy;   :            ©
+&gt;     :            >
+&lt;     :            <
+&trade;  :            ™

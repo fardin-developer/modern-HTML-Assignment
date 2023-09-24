@@ -1,0 +1,23 @@
+3 way which help us in improving the accessibility of HTML:
+
+=> Text Content
+=> Page Layout
+=> Alt attribute
+
+=> Text Content:
+------------------
+✔ A well structured content having headings, paragraphs, and lists is helpful in accessibility for users who rely on screen readers
+✔ The screen reaer reads each header out as you progress through the content, notifying oyou what a heading is and what a paragraph is.
+
+
+=> Page Layout:
+------------------
+✔ Although it is possible to design a layou using nested <div> element, but it is preferable to use proper sectioning elements to encapsulate your main navigation (<nav>), footer (<footer>),(<article>) encapsulate
+✔ These elements offers additional semantic to screen reader and other assitive tools, provide users with more context and informaion about the content they are browsing.
+
+=> Alt attribute:
+-------------------
+✔ Alt arrtibute and title attribute helps in hte accessibility, whre alt attribute provides alternative text for an image if the image
+ can not be displayed or user is using screen reader to access the page.
+
+ ex: <img src="icon.png" alt="icon image">

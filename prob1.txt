@@ -1,0 +1,15 @@
+=> HTML5 Features:
+
+1. HTML5 was published in 2014.
+
+2. Accessibilitu improvement: It provides better support for accessibility,provide alternative text for images and improved support for screen reader.
+
+3. Local Storage: HTML5 introduced the local storage API, which allow for storage of data on the use's device, improving performance and reducing the need for round trips to the server.
+
+4. Canvas Element: HTML5 introduced the <canvas> element, which allow for dynamic, iteractive graphics to be created and manipulated within a web page.
+
+5. Improved Multimedia Support: HTML5 allow for the integration of multimedia element  like audio, video directly into web pages without any plugin like flash.
+
+6. New Structural Element: HTML5 introduced new semantic elements like <header>,<footer>,<article>,<nav>, <main> etc that makes it easier to structure and organise the content on a web page.
+
+7. Form Improvement: HTML5 introduced several improvement to form , like data, time, color, autofocus etc.

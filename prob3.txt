@@ -1,0 +1,22 @@
+✔ Accessibility refers to the practice of designing and developing that can ve accessed and used by people with disabilities or different needs, without any barrier or limitations.
+
+=> There are some devices which play a major role in providing accessibility:
+
+✔ Screen Reader: A software that reads out the content of a web page to individuals, who are visually impaired.
+                 It can also interpret and communicate informaion about graphics, multimedia and other element on the page.
+
+✔ Voice Recognition Software: This software enables user to navigate web pages and input text using voice command.
+                               It is particularly useful for individuals with mobility impairments or those who have difficulty using a keyboard or mouse.
+
+✔ Keyboard alternatives: This allow individuals with physical disabilities to navigate and interact with web pages without traditional keyborad or mouse.
+
+
+
+ - Accessibility is essential because people with disabilities, have a decent user experience and are able to easily access your information.
+
+ ✔ Alt arrtibute and title attribute helps in hte accessibility, whre alt attribute provides alternative text for an image if the image
+ can not be displayed or user is using screen reader to access the page.
+
+ ✔ title attribute provide additional information aabout the image or element.
+
+ ✔ ARIA(Accessible Rich Internet Applications) also used to improve accessibility of web applicaations and web contents for individual with disabilities.
